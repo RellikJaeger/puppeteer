@@ -71,7 +71,7 @@
     "@angular-devkit/schematics": "^15.0.4"
   },
   "devDependencies": {
-    "@types/node": "^14.15.0",
+    "@types/node": "^18.11.18",
     "@schematics/angular": "^14.2.8"
   },
   "files": [
